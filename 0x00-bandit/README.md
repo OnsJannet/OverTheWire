@@ -6,3 +6,4 @@ The Bandit wargame is aimed at absolute beginners. It will teach the basics need
 
 * [0x00. Level0](./0x00-bandit/lvl0.md)
 * [0x00. Level1](./0x00-bandit/lvl1.md)
+* [0x00. Level2](lvl2.md)

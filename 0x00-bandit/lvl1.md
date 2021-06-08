@@ -17,8 +17,12 @@ file: determine the type of a file </br>
 du: estimate file space usage </br>
 find: search and locate the list of files and directories based on conditions you specify for files that match the arguments. </br>
 
+##hint:
+
+use cat < - ./- to open a - file
+
 ## Solution: 
 
-password: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+password: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 
 for more information check: <https://overthewire.org/wargames/bandit/>

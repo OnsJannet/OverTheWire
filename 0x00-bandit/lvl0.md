@@ -8,7 +8,8 @@ username: bandit0 </br>
 Password: bandit0
 
 
-## Used Commands: ssh
+## Used Commands: 
+ssh
 
 ## Solution: 
 

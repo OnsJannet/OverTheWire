@@ -9,7 +9,7 @@ Password: bandit0
 
 
 ## Used Commands: 
-ssh
+ssh: The ssh command provides a secure encrypted connection between two hosts over an insecure network.
 
 ## Solution: 
 

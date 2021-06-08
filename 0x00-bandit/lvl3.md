@@ -1,11 +1,11 @@
 ## Goal:
-The password for the next level is stored in a file called readme located in the home directory. The goal is to use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
+The password for the next level is stored in a hidden file in the inhere directory.
 
 ## SSH Information:
 Host: bandit.labs.overthewire.org </br>
 Port: 2220 </br>
 username: bandit0 </br>
-Password: bandit0
+Password: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 
 
 ## Used Commands: 

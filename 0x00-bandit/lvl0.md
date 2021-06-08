@@ -13,3 +13,5 @@ Password: bandit0
 ## Solution: 
 
 ssh -p 2220 bandit@bandit.labs.overthewire.org
+
+for more information check: <https://overthewire.org/wargames/bandit/>

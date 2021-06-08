@@ -17,7 +17,7 @@ file: determine the type of a file </br>
 du: estimate file space usage </br>
 find: search and locate the list of files and directories based on conditions you specify for files that match the arguments. </br>
 
-##hint:
+## hint:
 
 file/.hidden to hide a file
 

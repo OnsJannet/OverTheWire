@@ -19,10 +19,10 @@ find: search and locate the list of files and directories based on conditions yo
 
 ## hint:
 
-use cat < - ./- to open a - file
+use file ./-filename to look for the file with the ascii content 
 
 ## Solution: 
 
-password: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+password: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
 for more information check: <https://overthewire.org/wargames/bandit/>

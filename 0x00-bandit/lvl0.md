@@ -3,7 +3,10 @@
 
 ## SSH Information:
 Host: bandit.labs.overthewire.org
-Port: 2220)
+Port: 2220
+username: bandit0
+Password: bandit0
+
 
 ## Used Commands: ssh
 
